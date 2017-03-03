@@ -12,6 +12,4 @@
 @import Foundation;
 @import UIKit;
 
-#import "TTTAttributedLabel.h"
-
 #endif /* BLProject_Bridging_Header_h */
